@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e780de68-a801-4016-827e-09903def85b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="23r39lQYaUi2zeWfEe3NAehN3XU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/maixuanviet" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\JAVA_PROJECT\java_apache-libraries\src\main\java\com\maixuanviet" />
+      <recent name="D:\Project\JAVA_PROJECT\java_apache-libraries\src\main\resources" />
+      <recent name="D:\Project\JAVA_PROJECT\java_apache-libraries" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e780de68-a801-4016-827e-09903def85b4" name="Default Changelist" comment="" />
+      <created>1642478228080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642478228080</updated>
+      <workItem from="1642478230845" duration="1145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1642479461664">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1642479461664" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1642479461664">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1642479461664" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1642479461664">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1642479461664" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1642479461664">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1642479461664" />
+    <state x="656" y="257" width="737" height="606" key="find.popup" timestamp="1642479336253">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="257" width="737" height="606" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1642479336253" />
+  </component>
+</project>
